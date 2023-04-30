@@ -502,7 +502,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Sessions Extension/Others/Sessions_Extension.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XX9N244QQT;
+				DEVELOPMENT_TEAM = BBCQ4UHZ7X;
 				ENABLE_HARDENED_RUNTIME = NO;
 				INFOPLIST_FILE = "Sessions Extension/Others/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -512,7 +512,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "AlexP.Sessions-Extensions";
+				PRODUCT_BUNDLE_IDENTIFIER = "AndrewP.Sessions-Extensions";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -525,7 +525,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Sessions Extension/Others/Sessions_Extension.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XX9N244QQT;
+				DEVELOPMENT_TEAM = BBCQ4UHZ7X;
 				ENABLE_HARDENED_RUNTIME = NO;
 				INFOPLIST_FILE = "Sessions Extension/Others/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -535,7 +535,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "AlexP.Sessions-Extensions";
+				PRODUCT_BUNDLE_IDENTIFIER = "AndrewP.Sessions-Extensions";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -551,7 +551,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = XX9N244QQT;
+				DEVELOPMENT_TEAM = BBCQ4UHZ7X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Sessions/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -559,7 +559,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = AlexP.Sessions;
+				PRODUCT_BUNDLE_IDENTIFIER = AndrewP.Sessions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -574,7 +574,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = XX9N244QQT;
+				DEVELOPMENT_TEAM = BBCQ4UHZ7X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Sessions/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -582,7 +582,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = AlexP.Sessions;
+				PRODUCT_BUNDLE_IDENTIFIER = AndrewP.Sessions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
