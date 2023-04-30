@@ -20,7 +20,7 @@ class ViewController: NSViewController {
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {
-        SFSafariApplication.showPreferencesForExtension(withIdentifier: "AlexP.Sessions-Extensions") { error in
+        SFSafariApplication.showPreferencesForExtension(withIdentifier: "AndrewP.Sessions-Extensions") { error in
             if let _ = error {
 				NSLog("Couldn't open Safari Preferences. Please enable the extension manually")
             }
